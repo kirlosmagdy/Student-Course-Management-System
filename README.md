@@ -3,7 +3,7 @@
 The Student Course Management System project is designed to manage student courses using a SQL-based database. This guide will walk you through installing SQL Server Management Studio (SSMS) and setting up the database with the provided SQL queries.
 
 # Installation Guide
-Step 1: Install SQL Server Management Studio (SSMS)
+# Step 1: Install SQL Server Management Studio (SSMS) 
 SQL Server Management Studio (SSMS) is a free, integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database.
 
 # Download SSMS:
